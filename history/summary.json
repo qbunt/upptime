@@ -22,19 +22,19 @@
     "url": "https://ctcoppersmiths.com",
     "icon": "https://favicons.githubusercontent.com/ctcoppersmiths.com",
     "slug": "ctcoppersmiths-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 87,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 169,
+    "timeDay": 111,
     "timeWeek": 133,
     "timeMonth": 156,
-    "timeYear": 170,
+    "timeYear": 169,
     "dailyMinutesDown": {
-      "2021-07-15": 0
+      "2021-07-15": 6
     }
   }
 ]
