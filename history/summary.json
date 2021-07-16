@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 94,
-    "timeWeek": 127,
-    "timeMonth": 135,
-    "timeYear": 182,
+    "time": 181,
+    "timeDay": 151,
+    "timeWeek": 121,
+    "timeMonth": 131,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/ctcoppersmiths.com",
     "slug": "ctcoppersmiths-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 169,
-    "timeDay": 111,
-    "timeWeek": 133,
-    "timeMonth": 156,
-    "timeYear": 169,
-    "dailyMinutesDown": {
-      "2021-07-15": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 168,
+    "timeDay": 120,
+    "timeWeek": 124,
+    "timeMonth": 152,
+    "timeYear": 168,
+    "dailyMinutesDown": {}
   }
 ]
